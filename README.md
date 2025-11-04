@@ -137,5 +137,3 @@ Suggested segmentation to guide product and operations design:
 This markdown synthesizes the key charts, statistical results, and recommendations from the provided PDF titled *Data-Driven Strategy for Restaurant Success*. Visuals referenced in the report (heatmaps, bubble charts, correlation matrices) are not embedded here but should be exported as PNGs if you want a fully reproducible report.
 
 ---
-
-*Prepared from the uploaded PDF — ready to download or iterate.*
